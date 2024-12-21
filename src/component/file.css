@@ -1,0 +1,28 @@
+
+body {
+  background-color: rgb(193, 144, 144)
+}
+.uploadbutton{
+    cursor:pointer;
+    font-size: 30px;
+    text-decoration:none;
+}
+.hader2{
+    display: flex;
+    justify-content: center ;
+    align-items:  center;
+    font-size: 60px;
+    background-color: blanchedalmond;
+    padding-top: 50px;
+    padding-bottom: 100px;
+
+
+}
+.choose_file{
+    font-size: 30px;
+    color: rgb(37, 189, 95);
+}
+.image{
+    height: 110px;
+    width: 110px;
+}
